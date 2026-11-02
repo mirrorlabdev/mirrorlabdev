@@ -16,7 +16,7 @@ PLOT writes interactive novels. Pick a genre — or type anything — and it wri
 - Live on the web, Telegram, iOS and Android
 - [plotai.app](https://plotai.app) · [blog](https://plotai.app/blog/)
 
-The source is private. Most of the green squares above are PLOT.
+The source is private. Most of the green squares below are PLOT.
 
 ## How I work
 
@@ -48,7 +48,7 @@ I run development like a small company — Claude Code and Codex are the staff, 
 **권기하** — MirrorLab 대표. AI 에이전트 팀과 함께 [PLOT](https://plotai.app)을 만든다.
 코드 이전엔 배우·연출 15년, 시각예술 10년. 첫 커밋은 2025년 12월.
 
-**PLOT** — 장르만 고르거나 아무 말이나 넣으면, 선택마다 휘어지면서도 줄기를 놓치지 않는 인터랙티브 소설을 써 준다. 40개 언어, 웹·텔레그램·iOS·안드로이드. 소스는 비공개이고, 위 잔디의 대부분이 PLOT이다.
+**PLOT** — 장르만 고르거나 아무 말이나 넣으면, 선택마다 휘어지면서도 줄기를 놓치지 않는 인터랙티브 소설을 써 준다. 40개 언어, 웹·텔레그램·iOS·안드로이드. 소스는 비공개이고, 아래 잔디의 대부분이 PLOT이다.
 
 **일하는 방식** — 클로드 코드와 코덱스를 직원으로 둔 작은 회사처럼 운영한다. 코드는 대부분 에이전트가 쓰고, 나는 방향을 정하고 결과를 판정하고 무엇을 내보낼지 결정한다. 리뷰 강도는 예상 피해에 맞추고, 프로덕션·결제·유저 데이터에만 단단한 문을 둔다. 자기 배포를 자기가 승인하지 않는다. 에이전트는 매일 기억 없이 출근하므로 회사의 상태는 저장소(명세·결정 장부·인수인계)에 산다. 사고는 규칙으로 굳힌다.
 
